@@ -1,0 +1,11 @@
+@media screen and (max-width:768px) {
+  header div.wrap nav h1 a {
+  width: 210px;
+  }
+  header div.wrap nav ul.gnb {
+   display: none; 
+  }
+  header div.wrap nav ul.enb {
+    display: none;
+  }
+}
